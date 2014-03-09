@@ -4,7 +4,7 @@
 
 ## Sublime Text
 
-![Sublime Preview](https://github.com/expalmer/aurora-theme/screenshot.png)
+![Sublime Preview](https://raw.github.com/expalmer/aurora-theme/master/screenshot.png)
 
 #### Install using Git
 
