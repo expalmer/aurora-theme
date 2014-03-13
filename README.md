@@ -10,6 +10,10 @@
 
 Go to `Preferences -> Browse Packages...`.
 
+``` sh
+cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
+```
+
 Open your `Packages` directory, and clone the theme repository using the command below:
 
 ```sh
