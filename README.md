@@ -1,6 +1,6 @@
 # Aurora Theme
 
-> A dark theme for [Sublime Text](http://www.sublimetext.com/3) inspired on a awesome [Aurora Borealis](http://en.wikipedia.org/wiki/Aurora_(astronomy)).
+> A dark theme for [Sublime Text](http://www.sublimetext.com/3) inspired by an awesome [Aurora Borealis](http://en.wikipedia.org/wiki/Aurora_(astronomy)).
 
 ## Sublime Text
 
