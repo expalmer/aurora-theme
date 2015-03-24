@@ -14,7 +14,7 @@
 	<key>name</key>
 	<string>Aurora</string>
 	<key>semanticClass</key>
-	<string>theme.dark.heroku</string>
+	<string>theme.dark.aurora</string>
 	<key>settings</key>
 	<array>
 		<dict>
