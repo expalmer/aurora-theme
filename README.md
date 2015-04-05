@@ -28,5 +28,5 @@ Go to `Preferences -> Color Scheme -> User` and select the `Aurora Color Scheme`
 Released under the MIT License [MIT License](http://opensource.org/licenses/MIT)
 
 ### Enhance
-> if you want to help me enhance the theme, will be welcome **:)**
+> If you want to help me enhance the theme, or make the theme for another editor, you will be welcome **:)**
 
