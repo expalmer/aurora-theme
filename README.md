@@ -22,7 +22,7 @@ $ git clone https://github.com/expalmer/aurora-theme/ "Aurora Color Scheme"
 
 #### Activating the theme
 
-Go to `Preferences -> Color Scheme -> User` and select the `Aurora Color Scheme`.
+Go to `Preferences -> Color Scheme -> Aurora Color Scheme -> Aurora`.
 
 ### License
 Released under the MIT License [MIT License](http://opensource.org/licenses/MIT)
