@@ -728,17 +728,6 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>Brackets</string>
-            <key>scope</key>
-            <string>entity.name.class</string>
-            <key>settings</key>
-            <dict>
-                <key>background</key>
-                <string>#2A090088</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
             <string>WordHighlight</string>
             <key>scope</key>
             <string>wordhighlight</string>
